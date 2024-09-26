@@ -48,7 +48,7 @@ body{
 }
 
 .navbar .list-link:hover{
-    color: #4897D8;
+    color: #3F7A9F;
 }
 
 .navbar .list-link::after{
@@ -59,7 +59,7 @@ body{
     left: 0;
     transform-origin: right;
     height: 0.12rem;
-    background: #4897D8;
+    background: #3F7A9F;
     transform: scaleX(0);
     transition: transform .4s;
 }
